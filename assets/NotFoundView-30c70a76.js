@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as s,a as t}from"./index-04b103ec.js";const n={},c={class:"not-found"},a=t("h1",null,"This is an not-found page",-1),_=[a];function r(d,i){return e(),s("div",c,_)}const l=o(n,[["render",r]]);export{l as default};
