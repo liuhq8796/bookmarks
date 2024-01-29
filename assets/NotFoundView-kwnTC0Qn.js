@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./index-rAcVKJLi.js";const c={},n={class:"text-white"},a=s("h1",null,"This is an not-found page",-1),_=[a];function r(i,d){return t(),o("div",n,_)}const h=e(c,[["render",r]]);export{h as default};
